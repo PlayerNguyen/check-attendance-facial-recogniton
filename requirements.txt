@@ -1,0 +1,4 @@
+deepface
+tf_keras
+numpy
+torch
